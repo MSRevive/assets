@@ -1,2 +1,0 @@
-loopback
-STEAM_ID_LAN

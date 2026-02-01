@@ -699,6 +699,13 @@ HEALTH
 Health
 }
 
+$color 255 0 0
+$holdtime 5
+BEARGODSMAD
+{
+The Bear Gods are demanding retribution in blood!
+}
+
 LOCALPAGE_TEST1_PAR0
 {
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at quam pharetra, tristique lorem eu, imperdiet sapien. Suspendisse varius metus a quam efficitur, id interdum urna suscipit. Aenean quis rhoncus ipsum. Sed nec est feugiat, elementum arcu et, eleifend elit. Pellentesque quis sollicitudin lorem. Ut quam ligula, laoreet non venenatis non, luctus ac eros. Curabitur leo odio, vehicula ac fermentum ac, fermentum sed velit. Donec eget rhoncus nulla. In tristique congue felis eu viverra. Morbi volutpat diam eget commodo sollicitudin. Aenean purus libero, euismod quis dui ac, ultricies vulputate felis. Cras sed dolor massa. Nullam gravida nulla pharetra, convallis turpis id, sagittis metus. Nullam in laoreet diam, vel tempor elit.

@@ -47,7 +47,7 @@
 
 // DEFAULT BUTTON TEXT
 SchemeName = "Primary Button Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 27
 FgColor = "255 170 0 255"
 BgColor = "0 0 0 141"
@@ -56,7 +56,7 @@ BgColorArmed = "255 170 0 67"
 
 // COMMAND MENU TEXT
 SchemeName = "CommandMenu Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 24
 FgColor = "255 170 0 255"
 BgColor = "0 0 0 141"
@@ -65,31 +65,31 @@ BgColorArmed = "255 170 0 67"
 
 // SCOREBOARD TEXT
 SchemeName = "Scoreboard Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 23
 FontWeight = 0
 
 // SCOREBOARD TITLE TEXT (team names, team scores)
 SchemeName = "Scoreboard Title Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 20
 FontWeight = 700
 
 // SCOREBOARD SMALL TEXT (headers, player #)
 SchemeName = "Scoreboard Small Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 16
 FontWeight = 0
 
 // TITLE FONT in TFC selection menus
 SchemeName = "Title Font"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 30
 FgColor = "255 170 0 255"
 
 // CLASSDESC, MAPDESC, MOTD text windows
 SchemeName = "Briefing Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 16
 FontWeight = 0
 FgColor = "255 170 0 255"
@@ -97,12 +97,12 @@ FgColor = "255 170 0 255"
 // Team info text (list of players, etc)
 // fgColor is automatically set to the teams color
 SchemeName = "Team Info Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 16
 FontWeight = 0
 
 // ID Text
 SchemeName = "ID Text"
-FontName = "Consolas"
+FontName = "Verdana"
 FontSize = 16
 FontWeight = 0
